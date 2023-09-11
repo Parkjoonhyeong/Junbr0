@@ -1,4 +1,4 @@
-document.getElementById('time').innerHTML = new Date().toLocaleString;
+document.getElementById('time').innerHTML = new Date().toLocaleString();
 
 function pink() {
   document.body.style.backgroundColor = 'pink';
